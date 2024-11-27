@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 /* fonts */
 
 :root {
@@ -26,3 +32,4 @@
 
   --Semantic-error:#DC2626;
 }
+
