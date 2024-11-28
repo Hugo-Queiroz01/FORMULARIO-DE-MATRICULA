@@ -6,6 +6,9 @@
   overflow: hidden;
 }
 
+
+/* * nesting css */
+
 main {
   overflow: auto;
   padding: 4rem;
