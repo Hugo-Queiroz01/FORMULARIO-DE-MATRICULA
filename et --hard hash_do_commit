@@ -1,0 +1,41 @@
+[33mcommit 929e35beecd63b85b66955ab50431b5bc8bd8618[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Mon Dec 2 18:41:44 2024 -0400
+
+    Trabalhando no campo de envio de arquivos
+
+[33mcommit 3fdb14eadd0152e007bd10cd4ec263cf82030edb[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Thu Nov 28 19:05:03 2024 -0400
+
+    Configurando os inputs de data e select
+
+[33mcommit 3d2a56f294d5063228dde4b146fb9c3540b37c6a[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Thu Nov 28 18:28:56 2024 -0400
+
+    Iniciando o formulário
+
+[33mcommit ee51a14c66b3b805f2e03fd364687b44e7c6d3ad[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Wed Nov 27 20:00:58 2024 -0400
+
+    conteúdo aside e conteúdo inicial do main | correção nas variáveis de fonte | aplicando CSS nesting
+
+[33mcommit aa3f66fd93025be181a89ce8047c095dce1983f6[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Wed Nov 27 18:49:07 2024 -0400
+
+    layout css | corrigindo o overflow do main
+
+[33mcommit 194ebd89ab4c8ad5fea8838c78856432730895b4[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Tue Nov 26 18:33:40 2024 -0400
+
+    estrutura inicial do projeto e variaveis do projeto
+
+[33mcommit 5f4dea0fdf11fb28f65a8bcbc150abc2e11a6f53[m
+Author: Hugo Queiroz <hugoqueirozofficial@gmail.com>
+Date:   Tue Nov 26 18:33:09 2024 -0400
+
+    initial commit
